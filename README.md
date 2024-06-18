@@ -17,14 +17,14 @@ Table 2: Proportions of patients undergoing psychiatric review This is calculate
                'LOC APM numerator;  - all patinets in each LHB presctibed APM who had a psychiatric review, either hosptial admisison or outpatent appt, in the previous 12 months (or varying time period)
 
 Table 3:  Population prevalence on each QOF register, or not on any of the 3 psychiatric illness registers. THis is calcualated using the following three SQL codes
-               ' popualtion at risk prevalence' - gives the count of adult population (denominator)
-               'population at risk on QOF registers' - gives the count of adults on each of QOF SMI, Depression, and Dementia register (numerator)
+               ' population at risk prevalence' - gives the count of adult population (denominator)
+               'population at risk on QOF registers' - gives the count of adults on each of QOF SMI, Depression, and Dementia     register (numerator)
                'population at risk not on QOF registers' - give the count of adults not on any of the 3 QOF registers above (numerator)
 
  Table 4:  Prevalencce of APM prescribing to patient on each QOF register. This is calculated using data from 3 SQL codes
                'Patients on QOF register with APM prescribing - counts of patients on each QOF reigster taking APM (numerator)
                'Patietns not on QOF regisster with APM prescribing' - counts of patients not on above registers taking APM (numerator)
-               'Population at risk on QOF registers' - denominator populaiton for QOF popiulations and those not on register
+               'Population at risk on QOF registers' - denominator population for QOF populations and those not on register
 
 Table 5:  Overall APM use for patients on each QOF register/not on register. Uses data from 3 SQL files
                'popualtion at risk prescribed 6 or more APM' - gives the adulty denominator count
