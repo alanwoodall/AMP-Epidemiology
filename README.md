@@ -4,6 +4,8 @@ SQL coding spines for main data extraction for AMP epidemiology paper.
 PLease find attached a number of documents that support the research paper published here: https://doi.org/10.3399/BJGP.2024.0367
 This is a longitudinal populaton study examining the prescribing of antipsychotic medicaitons to adults using the SAIL databank.
 
+SUPPLEMENTARY DATA: This file contains all the graphs and additional Tables as referenced in the above paper. The graphs make it partciularly easy to see trends. 
+
 Documents attached:
 1. The 5-digit Read codes used to extract antipsychotic prescriptions
 2. The OQF disease regsiter codes for the SMI, depression and dementia QOF registers, and PDF copies of the business rules for each QOF register
